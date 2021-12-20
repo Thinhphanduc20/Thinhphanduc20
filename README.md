@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thinhphanduc20.
-- 👀 I’m interested in Data analyst.
+- 👀 I’m interested in Data Analyst/Science.
 - 🌱 I’m currently learning Python, R and SQL.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me : You can reach me though my E-mail: thinhphanduc20@gmail.com.
